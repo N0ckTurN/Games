@@ -1,0 +1,14 @@
+[Info]
+name="Gohan"
+mugenversion=1.1
+author="Lucas"
+
+[Files]
+anim = Gohan.air
+cmd = Gohan.cmd
+cns = Resources/cns.cns
+sound = Resources/snd.snd
+sprite = Resources/spr.sff
+stcommon = Resources/common.cns
+st = Resources/cns.cns
+st1=IA.cns
